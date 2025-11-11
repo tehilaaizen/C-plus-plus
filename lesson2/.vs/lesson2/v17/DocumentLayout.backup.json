@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "M:\\c\u002B\u002B\\lesson2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{832820EC-2A0F-4FAF-884B-C58351E9229A}|lesson2.vcxproj|M:\\c\u002B\u002B\\lesson2\\lesson2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{832820EC-2A0F-4FAF-884B-C58351E9229A}|lesson2.vcxproj|solutionrelative:lesson2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{832820EC-2A0F-4FAF-884B-C58351E9229A}|lesson2.vcxproj|M:\\c\u002B\u002B\\lesson2\\Fraction.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{832820EC-2A0F-4FAF-884B-C58351E9229A}|lesson2.vcxproj|solutionrelative:Fraction.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{832820EC-2A0F-4FAF-884B-C58351E9229A}|lesson2.vcxproj|M:\\c\u002B\u002B\\lesson2\\Fraction.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{832820EC-2A0F-4FAF-884B-C58351E9229A}|lesson2.vcxproj|solutionrelative:Fraction.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Fraction.cpp",
+              "DocumentMoniker": "M:\\c\u002B\u002B\\lesson2\\Fraction.cpp",
+              "RelativeDocumentMoniker": "Fraction.cpp",
+              "ToolTip": "M:\\c\u002B\u002B\\lesson2\\Fraction.cpp",
+              "RelativeToolTip": "Fraction.cpp",
+              "ViewState": "AgIAACEAAAAAAAAAAAAjwC4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-16T10:52:26.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Fraction.h",
+              "DocumentMoniker": "M:\\c\u002B\u002B\\lesson2\\Fraction.h",
+              "RelativeDocumentMoniker": "Fraction.h",
+              "ToolTip": "M:\\c\u002B\u002B\\lesson2\\Fraction.h",
+              "RelativeToolTip": "Fraction.h",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-16T10:28:50.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "lesson2.cpp",
+              "DocumentMoniker": "M:\\c\u002B\u002B\\lesson2\\lesson2.cpp",
+              "RelativeDocumentMoniker": "lesson2.cpp",
+              "ToolTip": "M:\\c\u002B\u002B\\lesson2\\lesson2.cpp*",
+              "RelativeToolTip": "lesson2.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-16T10:23:58.467Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
